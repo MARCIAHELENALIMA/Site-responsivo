@@ -51,3 +51,13 @@ nav ul li a{
     color: #5654b3;
 }
 
+nav ul button{
+    border: none;
+    background-color: #5654b3;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 7px;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-left: 20px;
+}
