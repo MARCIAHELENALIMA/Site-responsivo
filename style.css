@@ -112,21 +112,21 @@ main{
     cursor: pointer;
     font-size: 15px;
 }
-.medias-sociais{
+.medias-socias{
     margin-top: 30px;
 }
 
-.medias-sociais a{
+.medias-socias a{
     text-decoration: none;
 }
 
-.medias-sociais i{
+.medias-socias i{
     font-size: 23px;
     margin: 0 3px;
     color: #ffffff;
-    background-color: #372c62;
+    background-color: #5654b3;
     padding: 7px;
-    border-radius: 5px;
+    border-radius: 7px
 }
 
 .img-bx{
