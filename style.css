@@ -163,7 +163,7 @@ main{
     }
     nav ul li a{
         font-size: 18px;
-        color: white;
+        color: #ffffff;
     }
     nav ul button{
         background-color: #f1676d;
@@ -173,8 +173,7 @@ main{
     main{
         flex-direction: column;
     }
-    .text-bx,
-    .img-bx{
+    .text-bx, .img-bx{
         width: 100%;
         text-align: center;
     }
