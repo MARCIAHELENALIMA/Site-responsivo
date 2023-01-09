@@ -185,25 +185,25 @@ main{
         justify-content: center;
     }
 
-    .footer{
-        background: #f1676d;
-        width: 100%;
-        padding-top: 13px;
-        color: whitesmoke;
-        display: flex;
-        flex-direction: column;
-        font-family: poppins;
-        align-items: center;
-        justify-content: center;
-      }
-    
-    .footer .footer-text{
-        position: relative;
-        display: inline;
-        font-size: 18px;
-        font-weight: 400;
-        opacity: 1;
-        padding-bottom: 15px;
-    }
- 
+}
+
+.footer{
+    background: #f1676d;
+    width: 100%;
+    padding-top: 13px;
+    color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    font-family: poppins;
+    align-items: center;
+    justify-content: center;
+  }
+
+.footer .footer-text{
+    position: relative;
+    display: inline;
+    font-size: 18px;
+    font-weight: 400;
+    opacity: 1;
+    padding-bottom: 15px;
 }
