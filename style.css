@@ -147,8 +147,16 @@ main{
 
 @media (max-width:970px) {
     nav .menu-icon{
+        cursor: pointer;
         display: block;
     }
+    nav .logo a{
+        font-size: 30px;
+        font-weight: bold;
+        color: #5654b3;
+        text-decoration: none;
+    }
+
     nav ul{
         position: fixed;
         width: 60%;
@@ -173,11 +181,19 @@ main{
         font-size: 18px;
         color: #ffffff;
     }
-    nav ul button{
+    .registration{
         background-color: #f1676d;
         font-size: 18px;
         margin: 10px;
     }
+
+    .registration a{
+        text-decoration: none;
+        font-size: 20px;
+        text-transform: uppercase;
+        color: #ffffff;
+    }
+
     main{
         flex-direction: column;
     }
